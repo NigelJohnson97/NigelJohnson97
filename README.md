@@ -1,5 +1,5 @@
-### Hello, Im Nigel, an IT Professional!
- Information Technology Projects:</h2>
+### Hello, Im Nigel, an IT Professional🤓!
+ 🖥️ Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>-
   - [osTicket: Post-Installation Configuration](https://github.com/NigelJohnson97/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/NigelJohnson97/ticket-lifecycle)
