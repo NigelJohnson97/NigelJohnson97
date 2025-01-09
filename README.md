@@ -1,8 +1,10 @@
 ### Hello, Im Nigel, an IT Professional🤓!
+
 <h2 >🖥️ Information Technology Projects:</h2>
+
 - <b>osTicket (Help Desk Ticketing System)</b>-
-  - [osTicket: Post-Installation Configuration](https://github.com/NigelJohnson97/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/NigelJohnson97/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration
+  - [osTicket: Ticket Lifecycle Examples
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/NigelJohnson97/configure-ad)
