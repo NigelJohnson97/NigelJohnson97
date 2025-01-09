@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello, Im Nigel, an IT Professional!
+ Information Technology Projects:</h2>
+- <b>osTicket (Help Desk Ticketing System)</b>-
+  - [osTicket: Post-Installation Configuration](https://github.com/NigelJohnson97/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/NigelJohnson97/ticket-lifecycle)
 
-<!--
-**NigelJohnson97/NigelJohnson97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/NigelJohnson97/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NigelJohnson97/azure-network-protocols)
+  
 
-Here are some ideas to get you started:
+<h2> 🤳Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [<img align="left" alt="Nigel| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] www.linkedin.com/in/nigel-johnson-662793256
+  
