@@ -1,5 +1,4 @@
-<h1>Hello, I'm Nigel, an <a href="https://linkedin.com/in/https://www.linkedin.com/in/nigel-johnson-662793256/">IT Professional</a>☺</h1>
-
+<h1>Hello, I'm Nigel, a IT Professional
 <h2> 🖥️Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -14,6 +13,6 @@
 
 
 [<img align="left" alt="Nigel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Nigel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+  [<img align="left" alt="Nigel |Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  www.linkedin.com/in/nigel-johnson-662793256
 
-[linkedin]: https://linkedin.com/in/Nigel
